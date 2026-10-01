@@ -1,0 +1,6 @@
+{
+  "name": "Dudumo — 8-Jar Money System",
+  "description": "Dudumo automatically splits every paycheck across 8 Jars the moment it lands — rent, bills, food, debt, emergencies, goals, fun and retirement. Free forever.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
